@@ -24,7 +24,7 @@ let package = Package(
         .macOS(.v10_13),
         .watchOS("6.2"),
         .tvOS(.v11),
-        .iOS(.v11)
+        .iOS(.v13)
     ],
     products: [
         .library(name: "RevenueCat",
